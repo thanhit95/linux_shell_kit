@@ -7,11 +7,13 @@ This repository contains my random Linux shell stuff, including:
 - The utility libraries
 - The tools
 
+
 ## The utility libraries
 
 ### t_util_lib.sh
   - Data size conversion (e.g: from gibibytes to bytes)
   - Echo with prefix
+
 
 ## The tools
 
@@ -62,6 +64,12 @@ FILE DESCRIPTORS:
     fd: 4r, path: /usr/lib64/opera/icudtl.dat
     fd: 12r, path: /usr/lib64/opera/localization/en-US.pak
 ```
+
+
+## History
+
+The origin of this repository starts from here: [https://github.com/thanhit95/log4sh](https://github.com/thanhit95/log4sh)
+
 
 ## Author & license
 
